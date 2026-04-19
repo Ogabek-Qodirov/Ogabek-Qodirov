@@ -3,7 +3,6 @@
 Focused on building scalable data systems, IoT integrations, and backend architectures. Currently bridging the gap between hardware monitoring and data-driven insights.
 
 ### ⚙️ Core Stack
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,django,postgres,html,css,github,idea,git,docker)](https://skillicons.dev)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
