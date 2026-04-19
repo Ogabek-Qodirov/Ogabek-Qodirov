@@ -15,8 +15,8 @@ Focused on building scalable data systems, IoT integrations, and backend archite
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=transparent" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ogabek-Qodirov&show_icons=true&theme=transparent" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogabek-Qodirov&theme=transparent" alt="Streak" />
 </p>
 
 ### 📫 Connect
