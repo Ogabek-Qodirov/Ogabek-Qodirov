@@ -4,7 +4,7 @@
 
 **Focused on building scalable data systems, IoT integrations, and backend architectures. Currently bridging the gap between hardware monitoring and data-driven insights.**
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,django,postgres,html,css,github,idea,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,postgres,html,css,github,idea,git)](https://skillicons.dev)
 
 ---
 
