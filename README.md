@@ -4,7 +4,7 @@
 
 # Hello, I'm Qodirov Og'abek 
 
-Focused on building scalable data systems, IoT integrations, and backend architectures. Currently bridging the gap between hardware monitoring and data-driven insights.
+> *Focused on building scalable data systems, IoT integrations, and backend architectures. Currently bridging the gap between hardware monitoring and data-driven insights.*
 
 
 
