@@ -4,22 +4,11 @@
 
 # Hello, I'm Qodirov Og'abek 
 
-> *Focused on building scalable data systems, IoT integrations, and backend architectures. Currently bridging the gap between hardware monitoring and data-driven insights.*
+> Focused on building scalable data systems, IoT integrations, and backend architectures. Currently bridging the gap between hardware monitoring and data-driven insights.*
 
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,django,postgres,html,css,github,idea,git)](https://skillicons.dev)
-
-### 📊 `METRICS_MONITOR`
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ogabek-Qodirov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabek-Qodirov&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=092e20&height=100&section=footer" />
-</p>
 
 ---
 
