@@ -4,7 +4,7 @@ Focused on building scalable data systems, IoT integrations, and backend archite
 
 ### ⚙️ Core Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,django,postgres,html,css,github,idea,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,django,postgres,html,css,github,idea,git)](https://skillicons.dev)
 
 ---
 
