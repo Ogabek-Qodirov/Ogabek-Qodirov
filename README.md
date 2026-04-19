@@ -18,8 +18,7 @@
 
 
 ### 🎥 Animation Add-ons:
-
-![github contribution grid snake animation](https://github.com/Ogabek-Qodirov/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
 ---
 
