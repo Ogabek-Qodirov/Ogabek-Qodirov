@@ -16,22 +16,10 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🎥 Animation Add-ons:
 
-![github contribution grid snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/Ogabek-Qodirov/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
